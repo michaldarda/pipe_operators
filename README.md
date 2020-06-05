@@ -53,7 +53,7 @@ end
 
 ## Credits
 
-I started from nearly copy pasting [https://github.com/taiansu/pipe_to](taiansu/pipe_to)
+I started from nearly copy pasting [taiansu/pipe_to](https://github.com/taiansu/pipe_to)
 
 ## Installation
 
